@@ -1,9 +1,8 @@
 # Gradle files
 build/
 .gradle/
-gradlew
-gradlew.bat
 gradle/
 
 # IntelliJ files
 .idea/
+*.iml
